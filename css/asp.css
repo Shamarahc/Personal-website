@@ -1,0 +1,27 @@
+body {
+    background-image:url('https://wallpapercave.com/wp/wp6897369.jpg');
+    background-size:cover;
+    background-repeat:no-repeat;
+    text-align:center;
+}    
+
+
+h1 {
+    color:white;
+
+}
+
+button {
+    cursor:pointer;
+}
+
+.info {
+    background-color: #C2DCC1;
+    color:black;
+    margin: 20px 10px 20px;
+    padding: 100px;
+    text-align:center;
+    size:30px;
+    font-family:sans-serif;
+}
+

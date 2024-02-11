@@ -1,0 +1,68 @@
+body {
+    background-image:url('https://images.pexels.com/photos/1447367/pexels-photo-1447367.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
+    background-repeat: no-repeat;
+    background-size:cover;
+    text-align: center;
+}
+
+h1 {
+    size: 20px;
+}
+
+button {
+    cursor:pointer;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color:black;
+}
+
+p1 {
+   color:black;
+}
+
+h3 {
+    color:black;
+}
+
+p2 {
+    color:black;
+}
+
+h4 {
+    color:black;
+}
+
+p3 {
+    color:black;
+}
+
+h5 {
+    color:black;
+}
+
+p4 {
+    color:black;
+}
+
+h6 {
+    color:black;
+}
+
+p5 {
+    color:black;
+}
+
+.places {
+    font-style:italic;
+    background-color: lightgrey;
+    margin: 20px 10px 20px;
+    padding: 35px;
+    text-align:center;
+    size:15px;
+    font-family:sans-serif;
+}

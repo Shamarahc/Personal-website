@@ -1,0 +1,24 @@
+body {
+    background-image: url('https://media.istockphoto.com/id/1254474165/photo/tropical-leaves-abstract-green-leaves-texture-nature-background.jpg?b=1&s=612x612&w=0&k=20&c=rVXKvIXoMtNlocaKXsULqF4jy9RyuTdmSBoYUpNyJX8='); 
+    text-align:center;
+    background-size:cover;
+    background-repeat:no-repeat;
+
+}
+ 
+h1 {
+    font-size: 30px;
+    color: white;
+    font-family:sans-serif;
+    margin: 20px;
+}
+  
+p {
+    font-family:sans-serif;
+    margin: 30px;
+    color:white;
+}
+
+button {
+    cursor:pointer;
+}

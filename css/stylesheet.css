@@ -1,0 +1,20 @@
+p1 {
+    font-size: 25px;
+}
+p2 {
+    font-size: 18px;
+}
+
+p3 {
+    font-size: 18px;
+}
+body {
+    background-image:url('https://images.alphacoders.com/133/1331133.png');
+    text-align: center;
+}
+
+button {
+    font-size: 15px;
+    border-radius: 3px;
+    cursor:pointer;
+}
